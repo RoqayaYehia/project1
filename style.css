@@ -55,7 +55,7 @@ nav button{
     background: #00bfff;
     color: white;
     cursor: pointer;
-    transition: 0.3s;
+    
 }
 
 nav button:hover{
