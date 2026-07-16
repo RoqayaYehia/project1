@@ -46,9 +46,7 @@ nav ul li a{
     transition: 0.3s;
 }
 
-nav ul li a:hover{
-    color: #00bfff;
-}
+
 
 nav button{
     padding: 10px 20px;
@@ -106,10 +104,6 @@ nav button:hover{
     transition: 0.3s;
 }
 
-.btn:hover{
-    background: #00bfff;
-    color: white;
-}
 
 /* Destinations */
 .destinations{
@@ -135,12 +129,10 @@ nav button:hover{
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-    transition: 0.3s;
+
 }
 
-.card:hover{
-    transform: translateY(-10px);
-}
+
 
 .card img{
     width: 100%;
@@ -211,7 +203,7 @@ nav button:hover{
     color: #004e92;
     font-weight: bold;
     cursor: pointer;
-    transition: 0.3s;
+    
 }
 
 .cta button:hover{
